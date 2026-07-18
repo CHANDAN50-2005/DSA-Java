@@ -8,12 +8,10 @@ class Solution {
             if(nums[i] == 1){
                 count++;
             }
-            else if(nums[i] == 0){
+            else{
                 count = 0;
             }
-            if(max_count < count){
-                max_count = count;
-            }
+            max_count = Math.max(count,max_count);
         }
         return max_count;
     }
