@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
