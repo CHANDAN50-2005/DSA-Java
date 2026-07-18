@@ -9,12 +9,12 @@ class Solution {
         }
         return gcd(min, max);
     }
-    int gcd(int min, int max){
-        while( min != 0){
-            int temp = min;
-            min = max % min;
-            max = temp;
+    int gcd(int a, int b){
+        while( a != 0){ // runs until the min become 0
+            int temp = a; // stores min value so, it can be accessible as a max val laterfor gcd
+            a = b % a; // checks for the gcd modulo remaibder val
+            b = temp; // accessed as a max gcd
         }
-        return max;
+        return b;  // return gcd
     }
 }
