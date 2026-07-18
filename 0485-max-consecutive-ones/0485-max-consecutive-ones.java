@@ -11,7 +11,9 @@ class Solution {
             else{
                 count = 0;
             }
-            max_count = Math.max(count,max_count);
+            if(max_count < count){
+                max_count = count;
+            }
         }
         return max_count;
     }
