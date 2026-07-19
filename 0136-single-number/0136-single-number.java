@@ -4,7 +4,7 @@ class Solution {
         for(int n : nums){
             //ans = ans ^ n;
             ans^= n;  // xor which cancel out the same num
-                      // a^a = 0, 2^3^3 = 2
+                      // a^a = 0, a^0=a, 2^3^3 = 2
         }
         return ans;
     }
