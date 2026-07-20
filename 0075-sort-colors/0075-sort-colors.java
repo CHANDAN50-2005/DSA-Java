@@ -25,3 +25,6 @@ class Solution {
         nums[b] = temp;
     }
 }
+// 0 - low-1; low - mid-1; mid - high-1; high - n-1.
+// 0 always first, 1 is mid, 2 is end.
+// just need to sort at middle element at 1st or end.
