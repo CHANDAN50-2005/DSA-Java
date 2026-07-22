@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
