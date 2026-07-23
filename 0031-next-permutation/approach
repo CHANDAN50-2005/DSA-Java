@@ -1,0 +1,83 @@
+NEXT PERMUTATION (O(n), O(1))
+
+Goal:
+Find the next lexicographically greater permutation.
+
+Key Idea:
+We want the SMALLEST possible increase.
+
+Algorithm:
+
+1. Traverse from RIGHT and find the first index where
+      nums[i] < nums[i+1]
+   This is called the PIVOT.
+
+   Why?
+   - Changing elements on the right makes the smallest increase.
+   - Everything after the pivot is already in descending order.
+
+-------------------------------------------------------
+
+2. If no pivot exists
+
+Example:
+5 4 3 2 1
+
+Already the largest permutation.
+
+Reverse the whole array.
+
+Output:
+1 2 3 4 5
+
+-------------------------------------------------------
+
+3. Traverse again from RIGHT.
+
+Find the first element greater than the pivot.
+
+Why from the right?
+
+Because the suffix is descending.
+The first greater element from the right is automatically
+the smallest number greater than the pivot.
+
+-------------------------------------------------------
+
+4. Swap pivot and second.
+
+This makes the number just larger.
+
+-------------------------------------------------------
+
+5. Reverse the suffix (pivot+1 to end).
+
+Why?
+
+Suffix is descending.
+
+After swapping,
+we need the smallest arrangement.
+
+Descending -> Ascending
+
+Reverse is enough.
+
+-------------------------------------------------------
+
+Remember:
+
+Find Pivot
+     ↓
+No Pivot?
+ ↓        ↓
+Yes       No
+ ↓         ↓
+Reverse    Find Next Greater
+Whole      ↓
+Array      Swap
+            ↓
+        Reverse Suffix
+
+Time Complexity : O(n)
+Space Complexity: O(1)
