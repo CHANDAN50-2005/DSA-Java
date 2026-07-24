@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
