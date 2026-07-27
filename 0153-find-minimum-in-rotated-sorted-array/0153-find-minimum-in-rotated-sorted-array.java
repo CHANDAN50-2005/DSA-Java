@@ -1,8 +1,8 @@
 class Solution {
     public int findMin(int[] nums) {
         int smallest = pivotEl(nums);
-        if (smallest == -1){
-            return nums[0];
+        if (smallest == -1){  // beacause -1 means arr is sorted
+            return nums[0];   // sorted so simply return 1st element
         }
         return smallest;
     }
@@ -27,5 +27,4 @@ class Solution {
         }
         return -1;
     }
-    // int binarySearch(int [] nums, int target, )
 }
