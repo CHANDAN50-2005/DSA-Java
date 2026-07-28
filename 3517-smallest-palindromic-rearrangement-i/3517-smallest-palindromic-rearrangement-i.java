@@ -14,20 +14,27 @@ class Solution {
         // Build left half and find middle character
         for (int i = 0; i < 26; i++) {
 
-            // Add half of the occurrences to the left half
+            // Add half of each character to the left half
             for (int j = 0; j < freq[i] / 2; j++) {
                 left.append((char) (i + 'a'));
             }
 
-            // Odd frequency character becomes the middle
+            // Store the odd frequency character as the middle
             if (freq[i] % 2 == 1) {
                 middle = String.valueOf((char) (i + 'a'));
             }
         }
 
-        // Right half is reverse of left half
-        String right = new StringBuilder(left).reverse().toString();
+        // Build the final answer
+        StringBuilder ans = new StringBuilder(left);
 
-        return left.toString() + middle + right;
+        ans.append(middle);
+
+        // Mirror the left half
+        for (int i = left.length() - 1; i >= 0; i--) {
+            ans.append(left.charAt(i));
+        }
+
+        return ans.toString();
     }
 }
