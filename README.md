@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -108,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
