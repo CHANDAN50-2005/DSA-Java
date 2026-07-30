@@ -1,7 +1,10 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int st= 1;
-        int end = max(piles);
+        int end = piles[0];
+        for(int num : piles){
+            end = Math.max(end, num);
+        }
         int ans = end;
 
         while(st <= end){
@@ -26,15 +29,5 @@ class Solution {
             hrs += (num + mid-1L)/mid;
         }
         return hrs;
-    }
-
-    int max(int[] piles){
-        int maxi = piles[0];
-        for(int num: piles){
-            if(num > maxi){
-                maxi = num;
-            }
-        }
-        return maxi;
     }
 }
