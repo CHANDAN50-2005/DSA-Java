@@ -4,9 +4,7 @@ class Solution {
         int c = matrix[r].length-1;
 
         while(r < matrix.length && c >= 0){
-            if(matrix[r][c] == target){
-                return true;
-            }
+            if(matrix[r][c] == target) return true;
 
             if(matrix[r][c] > target){
                 c--;
