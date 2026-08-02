@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
