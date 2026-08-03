@@ -7,23 +7,23 @@ class Solution {
 
         int st = 1;
         int end = max;
-        int ans = -1;
+        // int ans = -1;
 
         while(st <= end){
             int mid = st + (end-st)/2;
             int sum = 0;
 
             for(int i=0; i<nums.length; i++){
-                sum += (nums[i] + mid-1)/mid;
+                sum += (nums[i] + mid-1)/mid; // Math.ceil also can be usable
             }
             if (sum <= threshold){
-                ans = mid;
+                // ans = mid;
                 end = mid-1;
             }
             else{
                 st = mid+1;
             }
         }
-        return ans;
+        return st;
     }
 }
