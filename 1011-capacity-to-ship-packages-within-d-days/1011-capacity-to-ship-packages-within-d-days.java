@@ -12,7 +12,7 @@ class Solution {
         // int ans = -1;
         while( st <= end){
             int mid = st + (end - st)/2;
-            int totalDays = returnDays(weights, mid);
+            int totalDays = daysRequired(weights, mid);
 
             if(totalDays > days){
                 st = mid+1;
@@ -24,16 +24,16 @@ class Solution {
         return st;
     }
 
-    int returnDays(int [] weights, int cap){
+    int daysRequired(int [] weights, int cap){
         int day = 1; 
-        int count = 0;
+        int countLoad = 0;
         
         for(int weigh : weights){
-            if(count + weigh > cap){
+            if(countLoad + weigh > cap){
                 day++;
-                count = weigh;
+                countLoad = weigh;
             }else{
-                count += weigh;
+                countLoad += weigh;
             }
         }
         return day;
