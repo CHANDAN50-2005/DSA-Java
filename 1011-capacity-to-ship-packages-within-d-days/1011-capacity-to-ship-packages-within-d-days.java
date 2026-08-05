@@ -9,19 +9,19 @@ class Solution {
             sum += weigh;
         }
 
-        int st = max;
-        int end = sum;
+        // int st = max;
+        // int end = sum;
         int ans = -1;
-        while( st <= end){
-            int mid = st + (end - st)/2;
+        while( max <= sum){
+            int mid = max + (sum - max)/2;
             int totalDays = returnDays(weights, mid);
 
             if(totalDays > days){
-                st = mid+1;
+                max = mid+1;
             }
             else {
                 ans = mid;
-                end = mid-1;
+                sum = mid-1;
             }
         }
         return ans;
