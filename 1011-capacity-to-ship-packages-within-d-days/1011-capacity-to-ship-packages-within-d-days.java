@@ -9,7 +9,7 @@ class Solution {
             end += weigh;
         }
 
-        int ans = -1;
+        // int ans = -1;
         while( st <= end){
             int mid = st + (end - st)/2;
             int totalDays = returnDays(weights, mid);
@@ -18,11 +18,10 @@ class Solution {
                 st = mid+1;
             }
             else {
-                ans = mid;
                 end = mid-1;
             }
         }
-        return ans;
+        return st;
     }
 
     int returnDays(int [] weights, int cap){
