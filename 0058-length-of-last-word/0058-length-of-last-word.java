@@ -1,5 +1,8 @@
 class Solution {
     public int lengthOfLastWord(String s) {
+        
+        // without using trim()
+
         int count = 0;
         if(s == null || s.length() == 0) return 0;
 
