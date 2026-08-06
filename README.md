@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
