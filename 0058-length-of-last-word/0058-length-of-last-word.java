@@ -1,14 +1,15 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        String st = s.trim();  // removes the whitespace at the end
         int count = 0;
+        if(s == null || s.length() == 0) return 0;
 
-        for(int i=st.length()-1; i>=0; i--){
-            if(st.charAt(i) != ' '){
-                count++;
-            }else{
-                break;
-            }
+        int n = s.length()-1;
+        while(n >= 0 && s.charAt(n) == ' '){
+                n--;
+        }
+        while(n >= 0 && s.charAt(n) != ' '){
+            count++;
+            n--;
         }
         return count;
     }
