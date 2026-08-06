@@ -8,7 +8,7 @@ class Solution {
                 if(count > 0) result.append(ch);
                 count++;
             }
-            else if(ch == ')'){
+            else{
                 count--;
                 if(count > 0) result.append(ch);
             }
