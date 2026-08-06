@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
