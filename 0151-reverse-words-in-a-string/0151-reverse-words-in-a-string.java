@@ -1,25 +1,13 @@
 class Solution {
     public String reverseWords(String s) {
-        List <String> words = new ArrayList<>();
-        StringBuilder word = new StringBuilder();
-        int n = s.length();
+        String [] words = s.split(" +");
+        StringBuilder sb = new StringBuilder();
 
-        for (int i=0; i<n; i++){
-            if(s.charAt(i) != ' '){
-                word.append(s.charAt(i));
-            }
-            else if(word.length() > 0){
-                words.add(word.toString());
-                word.setLength(0);
-            }
-        }
-        // may last word present some times
-        if(word.length() > 0){
-            words.add(word.toString());
+        for(int i=words.length-1; i>=0; i--){
+            sb.append(words[i]);
+            sb.append(" ");
         }
 
-        Collections.reverse(words);
-
-        return String.join(" ",words);
+        return sb.toString().trim();
     }
 }
