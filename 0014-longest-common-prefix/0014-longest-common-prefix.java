@@ -13,6 +13,6 @@ class Solution {
                 break;
             }
         }
-        return index==0?"" : st.substring(0,index); 
+        return index==0?"" : st.substring(0,index);
     }
 }
