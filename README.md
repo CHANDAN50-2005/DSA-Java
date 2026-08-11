@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
