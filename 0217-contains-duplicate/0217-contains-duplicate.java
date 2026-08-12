@@ -5,10 +5,9 @@ class Solution {
         Set <Integer> numSet = new HashSet<>(n);
 
         for(int i=0; i<n; i++){
-            if(numSet.contains(nums[i])){
+            if(!numSet.add(nums[i])){
                 return true;
             }
-            numSet.add(nums[i]);
         }
         return false;
     }
