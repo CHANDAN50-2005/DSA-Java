@@ -1,22 +1,23 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
 
-        int[] mapS = new int[256];
+        // create the empty arr index 0,255
+        int[] mapS = new int[256]; 
         int[] mapT = new int[256];
 
         for (int i = 0; i < s.length(); i++) {
 
-            char a = s.charAt(i);
-            char b = t.charAt(i);
+            char sChar = s.charAt(i);
+            char tChar = t.charAt(i);
 
-            if (mapS[a] != mapT[b]) {
+            // Checks for ASCII values (a=97)
+            if (mapS[sChar] != mapT[tChar]) {
                 return false;
             }
 
-            mapS[a] = i + 1;
-            mapT[b] = i + 1;
+            mapS[sChar] = i + 1;
+            mapT[tChar] = i + 1;
         }
-
         return true;
     }
 }
