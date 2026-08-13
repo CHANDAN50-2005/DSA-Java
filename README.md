@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
