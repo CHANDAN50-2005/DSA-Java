@@ -9,7 +9,9 @@ class Solution {
         while(index < st.length()){
             if(st.charAt(index) == end.charAt(index)){
                 index++;
-            }else break;
+            }else{
+                break;
+            }
         }
         return index==0?"" : st.substring(0,index);
     }
