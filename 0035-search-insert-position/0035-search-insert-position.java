@@ -8,13 +8,13 @@ class Solution {
             int mid = st+ (end - st)/2;
 
             if(nums[mid] >= target){
-                ans = mid;
+                // ans = mid;
                 end = mid-1;
             }
             else{
                 st = mid+1;
             }
         }
-        return ans;
+        return st;
     }
 }
