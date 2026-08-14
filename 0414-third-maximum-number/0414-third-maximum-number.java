@@ -16,11 +16,11 @@ class Solution {
                 second = first;
                 first = num;
             }
-            else if (num > second) {
+            else if (num > second && num < first) {
                 third = second;
                 second = num;
             }
-            else if (num > third) {
+            else if (num > third && num < second) {
                 third = num;
             }
         }
