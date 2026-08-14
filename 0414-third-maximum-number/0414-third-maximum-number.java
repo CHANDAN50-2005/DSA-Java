@@ -25,10 +25,7 @@ class Solution {
             }
         }
 
-        if (third == Long.MIN_VALUE) {
-            return (int) first;
-        }
-
-        return (int) third;
+        if (third == Long.MIN_VALUE) return (int) first;
+        else return (int) third;
     }
 }
