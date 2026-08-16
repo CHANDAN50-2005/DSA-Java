@@ -1,6 +1,7 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
-        // if(s.length() != goal.length()) return false;
+        if(s.length() != goal.length()) return false;
+    
         return (s.length() == goal.length() && (s+s).contains(goal));
         // s+s = abcdeabcde here you will get the all possible rotaations
     }
