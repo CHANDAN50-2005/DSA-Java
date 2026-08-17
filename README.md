@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3731-find-missing-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -238,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
