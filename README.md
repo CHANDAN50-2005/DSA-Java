@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0217-contains-duplicate) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/CHANDAN50-2005/DSA-Java/tree/master/0058-length-of-last-word) |
